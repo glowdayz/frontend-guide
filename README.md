@@ -4,7 +4,21 @@
 
 1. [공통 가이드](#basic)
 2. [HTML](#html)
+    1. [HTML 문법](#html-syntax)
+    2. [DTD](#doctype)
 3. [CSS](#css)
-4. [JAVASCRIPT](#javascript)
+    1. [CSS 문법](#css-syntax)
+    2. [속성 선언 순서](#css-property)
+4. [전처리기 사용 SCSS](#scss)
+5. [JAVASCRIPT](#javascript)
 
 ## 공통 가이드 <a id="basic" href="#basic">#</a>
+유지보수에 투자되는 비용을 최소화하기 위해 통일된 코드 작성법을 제시.
+코드를 최초로 작성하는 사람이 끝까지 유지보수할 확률은 매우 낮기때문에 최초 개발자가 아닌 사람도
+코드를 빠르고 정확하게 이해할 수 있도록 작성하는 것은 코드의 유지보수 비용을 절감하고
+업무 효율을 높이는 데 결정적인 역할을 한다
+또한 추가 및 업데이트가 이루어질때 작업후 모두 알 수 있게끔 공유 한다.
+
+
+
+
